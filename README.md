@@ -1,9 +1,9 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Autor: FEDERICO MONTES DE OCA
+* Título corto del trabajo: REPLICA ESP32-PICO-KIT
+* Descripción:  Circuito Impreso Replica de Modulo ESP32-PICO-KIT
 
 
 ## Licencia de este trabajo ##
