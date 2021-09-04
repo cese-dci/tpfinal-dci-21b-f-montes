@@ -7,8 +7,7 @@ Este repositorio contiene el trabajo práctico final para la asignatura de Dise�
 
 
 ## Licencia de este trabajo ##
-Debido a que todos los esquematicos, listados de materiales, disenos de PCB se encuentran publicados, asumimos que la licencia de Espressif es del tipo GNU General Public License (GPL) o del tipo Creative Commons Attribution-ShareAlike. Una busqueda en el sitio no muestra claramente esta informacion.
-Ver la sección "What license should I use?": https://www.oshwa.org/faq/
+Licencia OHL. Para detalles ver https://ohwr.org/cernohl
 
 ## Estructura del Repo ##
 
